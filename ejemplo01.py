@@ -19,3 +19,5 @@ oraciones = tokenizador.tokenize(text)
 for oracion in oraciones:
     print(oracion)
     print("")
+
+    #buenas
